@@ -1,0 +1,12 @@
+/home/ljunqueira/projects/java/forum/src/main/java/br/com/alura/forum/controller/HelloController.java
+/home/ljunqueira/projects/java/forum/src/main/java/br/com/alura/forum/controller/dto/TopicoDto.java
+/home/ljunqueira/projects/java/forum/src/main/java/br/com/alura/forum/model/Usuario.java
+/home/ljunqueira/projects/java/forum/src/main/java/br/com/alura/forum/model/StatusTopico.java
+/home/ljunqueira/projects/java/forum/src/main/java/br/com/alura/forum/model/Curso.java
+/home/ljunqueira/projects/java/forum/src/main/java/br/com/alura/forum/repository/TopicoRepository.java
+/home/ljunqueira/projects/java/forum/src/main/java/br/com/alura/forum/repository/CursoRepository.java
+/home/ljunqueira/projects/java/forum/src/main/java/br/com/alura/forum/controller/TopicosController.java
+/home/ljunqueira/projects/java/forum/src/main/java/br/com/alura/forum/controller/forms/TopicoForm.java
+/home/ljunqueira/projects/java/forum/src/main/java/br/com/alura/forum/model/Resposta.java
+/home/ljunqueira/projects/java/forum/src/main/java/br/com/alura/forum/ForumApplication.java
+/home/ljunqueira/projects/java/forum/src/main/java/br/com/alura/forum/model/Topico.java

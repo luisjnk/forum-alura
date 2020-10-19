@@ -1,0 +1,7 @@
+br/com/alura/forum/controller/HelloController.class
+br/com/alura/forum/repository/CursoRepository.class
+br/com/alura/forum/ForumApplication.class
+br/com/alura/forum/controller/forms/TopicoForm.class
+br/com/alura/forum/repository/TopicoRepository.class
+br/com/alura/forum/controller/dto/TopicoDto.class
+br/com/alura/forum/controller/TopicosController.class
